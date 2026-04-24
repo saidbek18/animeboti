@@ -752,7 +752,8 @@ async def cmd_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(
             "👋 <b>Salom! Anime botiga xush kelibsiz!</b>\n\n"
             "🎌 Anime kodini yuboring va barcha qismlarni oling!\n\n"
-            "📲 Kanal: @anime_uzb_bot",
+            "📲 Kanal: @namelessanim",
+            "Bizning botimiz: @namelessanimbot",
             parse_mode="HTML"
         )
 
