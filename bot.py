@@ -40,7 +40,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ================= CONFIG =================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8792855062:AAEv5nZdhFrW3ebgORw40i_f_rqRLLWToA0")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8699312044:AAFIEA2X9ENCOM9FJlEB8_T3q6NCH3H5E0E")
 SUPER_ADMIN_ID = int(os.environ.get("SUPER_ADMIN_ID", "8134296521"))
 
 DB_PATH = os.environ.get("DB_PATH", "/data/anime_bot.db")
