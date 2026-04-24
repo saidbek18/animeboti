@@ -381,7 +381,8 @@ def generate_anime_caption(title, part_number, total_parts, duration=0, code="")
         caption += f"🔑 <b>Kod:</b> <code>{code}</code>\n"
     caption += (
         f"━━━━━━━━━━━━━━━━━\n\n"
-        f"📲 <b>Botdan olish:</b> @anime_uzb_bot"
+        f"📲 <b>Kodlarni olish:</b> @namelessanim"
+        f"💾 <b>Bizning botimiz:</b> @@namelessanimbot"
     )
     return caption
 
